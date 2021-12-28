@@ -1,5 +1,4 @@
 """
-Created by Emmanuel C. Jemeni (@tallCoder02)
 This python script finds saved Wi-Fi profile names and their passwords.
 For Windows OS only.
 """
